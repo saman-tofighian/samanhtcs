@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samanhtcs
+- 👋 Hi, I’m @samanhtc
 - development of android
 - 👀 esoulve team
 - 🌱 front-end
