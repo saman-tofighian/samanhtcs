@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @samanhtc
-- development of android
+- 👋 Hi, I’m Saman Tofighian
 - 🌱 front-end developer Html | Css | Js | ReactJS
 - 📫samantofighian78@gmail.com
 <!---
