@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samanhtc
 - development of android
-- 👀 esoulve team
-- 🌱 front-end
+- 🌱 front-end developer Html | Css | Js | ReactJS
 - 📫samantofighian78@gmail.com
 <!---
 samanhtcs/samanhtcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
